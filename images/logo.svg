@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="108.63605mm"
+   height="45.130802mm"
+   viewBox="0 0 108.63605 45.130802"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2">
+    <font
+       horiz-adv-x="1024"
+       id="font845"
+       inkscape:label="font 1"
+       horiz-origin-x="128"
+       horiz-origin-y="96"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
+      <font-face
+         units-per-em="1024"
+         id="font-face847"
+         font-family="SANS-SERIF"
+         x-height="112"
+         ascent="64"
+         descent="16"
+         cap-height="64" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph849" />
+      <glyph
+         glyph-name="glyph 1"
+         id="glyph851" />
+      <glyph
+         glyph-name="glyph 2"
+         id="glyph853" />
+      <glyph
+         glyph-name="glyph 3"
+         id="glyph855" />
+      <glyph
+         glyph-name="glyph 4"
+         id="glyph857" />
+    </font>
+    <font
+       horiz-adv-x="1024"
+       id="font859"
+       inkscape:label="font 2"
+       horiz-origin-x="0"
+       horiz-origin-y="0"
+       vert-origin-x="512"
+       vert-origin-y="768"
+       vert-adv-y="1024">
+      <font-face
+         units-per-em="1024"
+         id="font-face861"
+         font-family="SVGFont 2"
+         ascent="0"
+         descent="0"
+         x-height="0"
+         cap-height="0" />
+      <missing-glyph
+         d="M0,0h1000v1024h-1000z"
+         id="missing-glyph863" />
+      <glyph
+         glyph-name="glyph 1"
+         id="glyph865" />
+    </font>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="56.305295"
+     inkscape:cy="181.22568"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid837"
+       originx="-30.346019"
+       originy="-125.60127" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.346017,-125.60127)">
+    <rect
+       style="mix-blend-mode:darken;fill:none;fill-opacity:0.787149;stroke:#000000;stroke-width:1.297;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect839"
+       width="105.83859"
+       height="42.333344"
+       x="31.744747"
+       y="127" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.7103px;line-height:10.85;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.719709;stroke-miterlimit:4;stroke-dasharray:none"
+       x="39.891945"
+       y="161.26617"
+       id="text843"
+       transform="scale(1.0224125,0.97807879)"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="39.891945"
+         y="161.26617"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.7103px;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.719709;stroke-miterlimit:4;stroke-dasharray:none">GALIJA</tspan></text>
+  </g>
+</svg>
