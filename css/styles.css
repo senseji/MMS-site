@@ -1,39 +1,4 @@
-/* Description: Master CSS file */
 
-/*****************************************
-Table Of Contents:
-- General Styles
-- Navigation
-- Header
-- Statistics
-- Introduction
-- Details 1
-- Services
-- Details 2
-- Invitation
-- Projects
-- Testimonials
-- Contact
-- Footer
-- Copyright
-- Back To Top Button
-- Extra Pages
-- Media Queries
-******************************************/
-
-/*****************************************
-Colors:
-- Backgrounds - light gray #f9fafe
-- Headings text - black #191e47
-- Body text - dark gray #6c717b
-- Buttons, icons - blue #4555d2
-- Buttons, icons, bullets - red #cc2973
-******************************************/
-
-
-/**************************/
-/*     General Styles     */
-/**************************/
 body,
 html {
     width: 100%;
@@ -460,35 +425,6 @@ a:hover {
 	margin-top: 5rem;
 }
 
-
-/**********************/
-/*     Statistics     */
-/**********************/
-.counter {
-	padding-top: 4.5rem;
-	padding-bottom: 5.5rem;
-	text-align: center;
-}
-
-.counter .counter-cell {
-	margin-bottom: 4rem;
-}
-
-.counter .purecounter {
-	margin-bottom: 1.5rem;
-	color: #191e47;
-	font-weight: 400;
-	font-size: 4rem;
-	line-height: 2rem;
-}
-
-.counter .counter-info {
-	color: #6d717a;
-	font-size: 0.875rem;
-	line-height: 1.5rem;
-}
-
-
 /************************/
 /*     Introduction     */
 /************************/
@@ -749,6 +685,20 @@ a:hover {
 }
 
 
+
+.container-fluid {
+	margin-left: 0.0em;
+	margin-right: 0.0em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.header-losinj {
+	background-color:hsl(0, 0%, 89%);
+	margin-bottom:5em;
+	text-align: center;
+}
+
 /*******************/
 /*     Contact     */
 /*******************/
@@ -945,6 +895,15 @@ a:hover {
 	margin-bottom: 0.5rem;
 }
 
+.carousel {
+	margin-left: 5%;
+	margin-right: 5% ;
+	margin-bottom: 5% ;
+}
+.card a {
+
+	color:green;
+}
 
 /*************************/
 /*     Media Queries     */
@@ -986,6 +945,7 @@ a:hover {
 	.cards-1 .card {
 		margin-right: 2rem;
 		margin-left: 2rem;
+		
 	}
 	/* end of services */
 
@@ -1248,11 +1208,13 @@ a:hover {
 		display: inline-block;
 		width: 296px;
 		vertical-align: top;
+		margin-top: 2rem;
+		margin-bottom: 2rem;
 	}
 
 	.ex-cards-1 .card:nth-of-type(3n+2) {
-		margin-right: 1rem;
-		margin-left: 1rem;
+		margin-right: 2rem;
+		margin-left: 2rem;
 	}
 	/* end of extra pages */
 }
