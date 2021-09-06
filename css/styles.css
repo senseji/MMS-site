@@ -41,7 +41,7 @@ html {
 }
 
 body, p {
-	color: #6c717b; 
+	color: #858d9c; 
 	font: 400 1rem/1.625rem "Open Sans", sans-serif;
 }
 
@@ -115,7 +115,7 @@ h6 {
 }
 
 a {
-	color: #6c717b;
+	color: #618ce2;
 	text-decoration: underline;
 }
 
@@ -137,7 +137,7 @@ a:hover {
 }
 
 .bg-gray {
-	background-color: #f9fafe;
+	background-color: hsl(0, 0%, 91%);
 }
 
 .btn-solid-reg {
@@ -356,7 +356,7 @@ a:hover {
 .navbar .nav-item .nav-link {
 	padding-top: 0.625rem;
 	padding-bottom: 0.625rem;
-	color: #191e47;
+	color: #8a8fad;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
@@ -364,7 +364,7 @@ a:hover {
 .navbar .nav-item.dropdown.show .nav-link,
 .navbar .nav-item .nav-link:hover,
 .navbar .nav-item .nav-link.active {
-	color: #4555d2;
+	color: #4c4cd6;
 }
 
 /* Dropdown Menu */
@@ -428,25 +428,10 @@ a:hover {
 	overflow: hidden;
 	padding-top: 8rem;
 	padding-bottom: 4em;
-	background-color: #ffffff;
+	background-color: hsl(0, 0%, 100%);
 	text-align: center;
 }
 
-.header .decoration-star {
-	position: absolute;
-	top: 80px;
-	left: -100px;
-	width: 200px;
-	opacity: 0.7;
-}
-
-.header .decoration-star-2 {
-	position: absolute;
-	top: 80px;
-	right: -100px;
-	width: 200px;
-	opacity: 0.7;
-}
 
 .header div[class*="col"] {  
 	/* selects all elements which have classes starting with col */
@@ -520,19 +505,7 @@ a:hover {
 /*********************/
 /*     Details 1     */
 /*********************/
-.basic-2 {
-	position: relative;
-	padding-top: 9.5rem;
-	padding-bottom: 9.5rem;
-}
 
-.basic-2 .decoration-star {
-	position: absolute;
-	top: 530px;
-	left: -100px;
-	width: 200px;
-	opacity: 0.7;
-}
 
 .basic-2 div[class*="col"] {  
 	/* selects all elements which have classes starting with col */
@@ -646,13 +619,7 @@ a:hover {
 	padding-bottom: 9.75rem;
 }
 
-.basic-3 .decoration-star {
-	position: absolute;
-	top: 500px;
-	right: -100px;
-	width: 200px;
-	opacity: 0.7;
-}
+
 
 .basic-3 div[class*="col"] {  
 	/* selects all elements which have classes starting with col */
@@ -1335,34 +1302,9 @@ a:hover {
 	/* end of header */
 
 
-	/* Statistics */
-	.counter .counter-cell {
-		margin-right: 3.5rem;
-		margin-left: 3.5rem;
-		width: 180px;
-	}
-	
-	.counter .counter-cell:first-of-type {
-		margin-left: 0;
-	}
-
-	.counter .counter-cell:last-of-type {
-		margin-right: 0;
-	}
-
-	.counter .purecounter {
-		font-size: 6.75rem;
-		line-height: 4.5rem;
-	}
-	/* end of statistics */
-
 
 	/* Details 1 */
-	.basic-2 .decoration-star {
-		top: 140px;
-		left: -200px;
-		width: 500px;
-	}
+
 
 	.basic-2 .text-container {
 		margin-top: 5rem;
@@ -1397,11 +1339,7 @@ a:hover {
 
 
 	/* Details 2 */
-	.basic-3 .decoration-star {
-		top: 140px;
-		right: -200px;
-		width: 500px;
-	}
+
 
 	.basic-3 .text-container {
 		margin-top: 6rem;

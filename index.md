@@ -3,45 +3,28 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="Your description">
-    <meta name="author" content="Your name">
 
-    <!-- OG Meta Tags to improve the way the post looks when you share the page on Facebook, Twitter, LinkedIn -->
-	<meta property="og:site_name" content="" /> <!-- website name -->
-	<meta property="og:site" content="" /> <!-- website link -->
-	<meta property="og:title" content=""/> <!-- title shown in the actual shared post -->
-	<meta property="og:description" content="" /> <!-- description shown in the actual shared post -->
-	<meta property="og:image" content="" /> <!-- image link, make sure it's jpg -->
-	<meta property="og:url" content="" /> <!-- where do you want your post to link to -->
-	<meta name="twitter:card" content="summary_large_image"> <!-- to have large image post format in Twitter -->
+    <title>Villa Galija - Mali Lošinj</title>
 
-    <!-- Webpage Title -->
-    <title>Yavin Webpage Title</title>
-    
-    <!-- Styles -->
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/fontawesome-all.min.css" rel="stylesheet">
     <link href="css/swiper.css" rel="stylesheet">
 	<link href="css/styles.css" rel="stylesheet">
 	
-	<!-- Favicon  -->
+
     <link rel="icon" href="images/favicon.png">
 </head>
 <body>
     
-    <!-- Navigation -->
+
     <nav id="navbar" class="navbar navbar-expand-lg fixed-top navbar-light" aria-label="Main navigation">
         <div class="container">
 
-            <!-- Image Logo -->
+  
             <a class="navbar-brand logo-image" href="index.html"><img src="images/logo.svg" alt="alternative"></a> 
 
-            <!-- Text Logo - Use this if you don't have a graphic logo -->
-            <!-- <a class="navbar-brand logo-text" href="index.html">Yavin</a> -->
-
+       
             <button class="navbar-toggler p-0 border-0" type="button" id="navbarSideCollapse" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -52,7 +35,7 @@
                         <a class="nav-link active" aria-current="page" href="#header">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#details">Details</a>
+                        <a class="nav-link" href="#About us ">Details</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#services">Services</a>
@@ -60,429 +43,249 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#projects">Projects</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-bs-toggle="dropdown" aria-expanded="false">Drop</a>
-                        <ul class="dropdown-menu" aria-labelledby="dropdown01">
-                            <li><a class="dropdown-item" href="article.html">Article Details</a></li>
-                            <li><div class="dropdown-divider"></div></li>
-                            <li><a class="dropdown-item" href="terms.html">Terms Conditions</a></li>
-                            <li><div class="dropdown-divider"></div></li>
-                            <li><a class="dropdown-item" href="privacy.html">Privacy Policy</a></li>
-                        </ul>
+                    <li class="nav-item">
+                        <a class="nav-link" href="losinj.html">Explore Lošinj</a>
                     </li>
                 </ul>
                 <span class="nav-item">
                     <a class="btn-outline-sm" href="#contact">Contact us</a>
                 </span>
-            </div> <!-- end of navbar-collapse -->
-        </div> <!-- end of container -->
-    </nav> <!-- end of navbar -->
-    <!-- end of navigation -->
-
+            </div> 
+        </div> 
+    </nav>
       
-    <!-- Header -->
     <header id="header" class="header">
-        <img class="decoration-star" src="images/decoration-star.svg" alt="alternative">
-        <img class="decoration-star-2" src="images/decoration-star.svg" alt="alternative">
         <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-xl-5">
                     <div class="text-container">
-                        <h1 class="h1-large">Beautifying office spaces</h1>
-                        <p class="p-large">Is education residence conveying and sore. Suppose shyness say ten behaved morning had. Any propose assist compliment occasional too reasonably</p>
+                        <h1 class="h1-large">Villa Galija</h1>
+                        <p class="p-large"></p>Do you want to feel like at home? Do you wish the seagulls to wake you up? Are you in a mood for relaxed vacation? You're on right address!</p>
+                        <p class="p-large"></p>Enjoy a view of dolphins dancing in a school while a griffon vulture guards the sky, wall geckos happily crawl across house walls, and the best shrimp in the world plays the beat with its claws somewhere deep down in the sea…</p>
                         <a class="btn-solid-lg" href="#introduction">More details</a>
                         <a class="btn-outline-lg" href="#contact">Contact us</a>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
+                    </div>
+                </div>
                 <div class="col-lg-5 col-xl-7">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/header.png" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </header> <!-- end of header -->
-    <!-- end of header -->
+                        <img class="img-fluid" src="images/header.jpg" alt="alternative">
+                    </div> 
+                </div> 
+            </div> 
+        </div> 
+    </header> 
 
-
-    <!-- Statistics -->
-    <div class="counter">
+    <div class="basic-4 bg-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    
-                    <!-- Counter -->
-                    <div class="counter-container">
-                        <div class="counter-cell">
-                            <div data-purecounter-start="0" data-purecounter-end="231" data-purecounter-duration="3" class="purecounter">1</div>
-                            <div class="counter-info">Happy Customers</div>
-                        </div> <!-- end of counter-cell -->
-                        <div class="counter-cell">
-                            <div data-purecounter-start="0" data-purecounter-end="385" data-purecounter-duration="1.5" class="purecounter">1</div>
-                            <div class="counter-info">Issues Solved</div>
-                        </div> <!-- end of counter-cell -->
-                        <div class="counter-cell">
-                            <div data-purecounter-start="0" data-purecounter-end="159" data-purecounter-duration="3" class="purecounter">1</div>
-                            <div class="counter-info">Good Reviews</div>
-                        </div> <!-- end of counter-cell -->
-                        <div class="counter-cell">
-                            <div data-purecounter-start="0" data-purecounter-end="128" data-purecounter-duration="3" class="purecounter">1</div>
-                            <div class="counter-info">Case Studies</div>
-                        </div> <!-- end of counter-cell -->
-                    </div> <!-- end of counter-container -->
-                    <!-- end of counter -->
+                    <h4>If you like an active holiday, Lošinj is the perfect place for you! Tennis, biking, hiking, jogging, diving, game fishing.</h4>
+                    <a class="btn-solid-lg" href="#contact">Ask us something!</a>
+                </div> 
+            </div> 
+        </div> 
+    </div> 
 
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of counter -->
-    <!-- end of statistics -->
-
-
-    <!-- Introduction -->
-    <div id="introduction" class="basic-1 bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-xl-9">
-                    <h2>Creating office spaces is our passion and you can see that in our completed projects</h2>
-                    <p>Unpleasing has ask acceptance partiality alteration understood two. Worth no tiled my at house added. Married he hearing am it totally removal. Remove but suffer wanted his lively length. Moonlight two applauded conveying end direction old principle but. Are expenses distance weddings perceive</p>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-1 -->
-    <!-- end of introduction -->
-
-
-    <!-- Details 1 -->
     <div id="details" class="basic-2">
-        <img class="decoration-star" src="images/decoration-star.svg" alt="alternative">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-xl-5">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/details-1.png" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
+                        <div class="airbnb-embed-frame" data-id="37508622" data-view="home" style="width:450px;height:300px;margin:auto">
+                            <a href="https://www.airbnb.com/rooms/37508622?guests=1&amp;adults=1&amp;s=66&amp;unique_share_id=423b7d10-517b-4244-a69e-74ad62d87468&amp;source=embed_widget">View On Airbnb</a>
+                            <a href="https://www.airbnb.com/rooms/37508622?guests=1&amp;adults=1&amp;s=66&amp;unique_share_id=423b7d10-517b-4244-a69e-74ad62d87468&amp;source=embed_widget" rel="nofollow">Villa Galija Mali Lošinj</a>
+                            <script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
+                    </div> 
+                </div> 
+
+                
                 <div class="col-lg-6 col-xl-7">
                     <div class="text-container">
-                        <h2>Office spaces should be unique they don’t need to look the same</h2>
+                        <h2>Who are we?</h2>
                         <ul class="list-unstyled li-space-lg">
                             <li class="d-flex">
                                 <i class="fas fa-square"></i>
-                                <div class="flex-grow-1">At every tiled on ye defer do. No attention suspected oh difficult. Fond his say</div>
+                                <div class="flex-grow-1">We are family Skender Lovrić - Marijana & Andrija.</div>
                             </li>
                             <li class="d-flex">
                                 <i class="fas fa-square"></i>
-                                <div class="flex-grow-1">Old meet cold find come whom. The sir park sake bred. Wonder matter now</div>
+                                <div class="flex-grow-1">We have been renting rooms for several decades. Guests who faithfully return year after year tell us that we have succeeded in that.</div>
                             </li>
                             <li class="d-flex">
                                 <i class="fas fa-square"></i>
-                                <div class="flex-grow-1">Can estate esteem assure fat roused. Am performed on existence as discourse</div>
+                                <div class="flex-grow-1">​You are welcome to be our guests as well. You only have to call and book your vacation! We're already looking forward to it!</div>
                             </li>
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1">existence as discourse is. Pleasure friendly at marriage blessing or should</div>
-                            </li>
+                        
                         </ul>
-                        <a class="btn-solid-reg" href="article.html">Get started</a>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-2 -->
-    <!-- end of details 1 -->
+                        <a class="btn-solid-reg" href="article.html">Contact us</a>
+                    </div> 
+                </div> 
+            </div>
+        </div>
+    </div> 
+   
 
 
-    <!-- Services -->
     <div id="services" class="cards-1 bg-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5">
                     <div class="text-container">
-                        <h2>Services that we offer</h2>
-                        <p>Greatly hearted has who believe. Drift allow green son walls years for blush. Sir margaret drawings repeated recurred exercise laughing may you</p>
-                        <p>Do repeated whatever to welcomed absolute no. Fat surprise although more words outlived</p>
-                        <ul class="list-unstyled li-space-lg">
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1">And informed shy dissuade property. Musical by</div>
-                            </li>
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1">He drawing savings an. No we stand avoid</div>
-                            </li>
-                            <li class="d-flex">
-                                <i class="fas fa-square"></i>
-                                <div class="flex-grow-1">Announcing of invita mrore wo tion principle</div>
-                            </li>
-                        </ul>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
+                        <h2> What we offer</h2>
+                        <p>You will feel like home, since this is ours. We have everything you need.</p>
+                    </div> 
+                </div>
                 <div class="col-lg-7">
                     <div class="card-container">
 
-                        <!-- Card -->
+                 
                         <div class="card">
                             <div class="card-icon">
-                                <span class="fas fa-rocket"></span>
+                                <span class="fas fa-wifi"></span>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Space analysis and planning</h5>
+                                <h5 class="card-title">Free WiFi</h5>
                             </div>
                         </div>
-                        <!-- end of card -->
-
-                        <!-- Card -->
+       
                         <div class="card">
                             <div class="card-icon">
-                                <span class="far fa-clock"></span>
+                                <span class="fas fa-snowflake"></span>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Design and color choosing</h5>
+                                <h5 class="card-title">Refrigerator</h5>
                             </div>
                         </div>
-                        <!-- end of card -->
 
-                        <!-- Card -->
+                       
                         <div class="card">
                             <div class="card-icon">
-                                <span class="far fa-comments"></span>
+                                <span class="fas fa-swimmer"></span>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Materials and delivery</h5>
+                                <h5 class="card-title">Waterfront
+                                </h5>
                             </div>
                         </div>
-                        <!-- end of card -->
-
-                        <!-- Card -->
+                      
                         <div class="card">
                             <div class="card-icon">
-                                <span class="fas fa-tools"></span>
+                                <span class="fas fa-utensils"></span>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Execute the concept</h5>
+                                <h5 class="card-title">Breakfast</h5>
                             </div>
                         </div>
-                        <!-- end of card -->
-
-                        <!-- Card -->
+                      
                         <div class="card">
                             <div class="card-icon">
-                                <span class="fas fa-chart-pie"></span>
+                                <span class="fas fa-toilet-paper"></span>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Creating great atmosphere</h5>
+                                <h5 class="card-title">Included essentials</h5>
                             </div>
                         </div>
-                        <!-- end of card -->
-
-                        <!-- Card -->
+                    
                         <div class="card">
                             <div class="card-icon">
-                                <span class="far fa-chart-bar"></span>
+                                <span class="fas fa-smoking"></span>
                             </div>
                             <div class="card-body">
-                                <h5 class="card-title">Evaluation and reporting</h5>
+                                <h5 class="card-title">Smoking allowed</h5>
                             </div>
                         </div>
-                        <!-- end of card -->
+                    
 
-                    </div> <!-- end of container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of cards-1 -->
-    <!-- end of services -->
+                    </div> 
+                </div> 
+            </div> 
+        </div> 
+    </div>
+  
 
 
-    <!-- Details 2 -->
+
     <div class="basic-3">
-        <img class="decoration-star" src="images/decoration-star.svg" alt="alternative">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-xl-7">
                     <div class="text-container">
-                        <h2>A beautiful and well organized office space increases productivity</h2>
-                        <p>On it differed repeated wandered required in. Then girl neat why yet knew rose spot. Moreover property we he kindness greatest be oh striking laughter. In me he at collecting affronting principles apartments. Has visitor law attacks pretend you calling own excited painted. Contented attending</p>
-                        <a class="btn-solid-reg" href="article.html">Get started</a>
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
+                        <h2>Lošinj - Island of Vitality</h2>
+                        <p>High quality seas and supreme air quality with over 200 days of sunshine and 1018 plant species, of which 939 belong to indigenous flora, make Lošinj the ideal aromatherapy centre and a modern destination of vitality, health tourism and environmental awareness. </p>
+                        <a class="btn-solid-reg" href="losinj.html">Find out more!</a>
+                    </div> 
+                </div>
                 <div class="col-lg-6 col-xl-5">
-                    <div class="image-container">
-                        <img class="img-fluid" src="images/details-2.png" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-3 -->
-    <!-- end of details 2 -->
+                    
+                        <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fvisitlosinj%2Fvideos%2F3604344909586502%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+                    
+                </div> 
+            </div>
+        </div> 
+    </div> 
+   
 
 
-    <!-- Invitation -->
-    <div class="basic-4 bg-gray">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h4>Our team of highly skilled designers and interior construction workers can deliver above your level of expections</h4>
-                    <a class="btn-solid-lg" href="#contact">Get quote</a>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of basic-4 -->
-    <!-- end of invitation -->
 
+   
 
-    <!-- Projects -->
-    <div id="projects" class="cards-2">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2 class="h2-heading">Projects we developed</h2>
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-            <div class="row">
-                <div class="col-lg-12">
-
-                    <!-- Card -->
-                    <div class="card">
-                        <img class="img-fluid" src="images/project-1.jpg" alt="alternative">
-                        <div class="card-body">
-                            <h5 class="card-title">Office space for banking</h5>
-                            <p class="card-text">Suffer should if waited common person little ans words are needed oh <a class="blue no-line" href="article.html">...Read more</a></p>
-                        </div>
-                    </div>
-                    <!-- end of card -->
-
-                    <!-- Card -->
-                    <div class="card">
-                        <img class="img-fluid" src="images/project-2.jpg" alt="alternative">
-                        <div class="card-body">
-                            <h5 class="card-title">Planning and design for startup</h5>
-                            <p class="card-text">In to am attended desirous raptures declared diverted confined at collected <a class="blue no-line" href="article.html">...Read more</a></p>
-                        </div>
-                    </div>
-                    <!-- end of card -->
-
-                    <!-- Card -->
-                    <div class="card">
-                        <img class="img-fluid" src="images/project-3.jpg" alt="alternative">
-                        <div class="card-body">
-                            <h5 class="card-title">Colors and materials update</h5>
-                            <p class="card-text">Instantly remaining up certainly to necessary as over walk dull into son <a class="blue no-line" href="article.html">...Read more</a></p>
-                        </div>
-                    </div>
-                    <!-- end of card -->
-
-                    <!-- Card -->
-                    <div class="card">
-                        <img class="img-fluid" src="images/project-4.jpg" alt="alternative">
-                        <div class="card-body">
-                            <h5 class="card-title">Analysis and floor design</h5>
-                            <p class="card-text">Vent new at or happiness commanded daughters as is handsome an <a class="blue no-line" href="article.html">...Read more</a></p>
-                        </div>
-                    </div>
-                    <!-- end of card -->
-
-                    <!-- Card -->
-                    <div class="card">
-                        <img class="img-fluid" src="images/project-5.jpg" alt="alternative">
-                        <div class="card-body">
-                            <h5 class="card-title">Office spaces decoration</h5>
-                            <p class="card-text">Vicinity subjects more words into miss on he over been late pain an only <a class="blue no-line" href="article.html">...Read more</a></p>
-                        </div>
-                    </div>
-                    <!-- end of card -->
-
-                    <!-- Card -->
-                    <div class="card">
-                        <img class="img-fluid" src="images/project-6.jpg" alt="alternative">
-                        <div class="card-body">
-                            <h5 class="card-title">Playground for kinder garden</h5>
-                            <p class="card-text">Match round scale now sex style far times your me past and who now much <a class="blue no-line" href="article.html">...Read more</a></p>
-                        </div>
-                    </div>
-                    <!-- end of card -->
-
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of cards-2 -->
-    <!-- end of projects -->
-
-
-    <!-- Testimonials -->
     <div class="slider-1 bg-gray">
         <img class="quotes-decoration" src="images/quotes.svg" alt="alternative">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
 
-                    <!-- Card Slider -->
+                
                     <div class="slider-container">
                         <div class="swiper-container card-slider">
                             <div class="swiper-wrapper">
                                 
-                                <!-- Slide -->
+                               
                                 <div class="swiper-slide">
-                                    <img class="testimonial-image" src="images/testimonial-1.jpg" alt="alternative">
-                                    <p class="testimonial-text">“Expense bed any sister depend changer off piqued one. Contented continued any happiness instantly objection yet her allowance. Use correct day new brought tedious. By come this been in. Kept easy or sons my it how about some words here done”</p>
-                                    <div class="testimonial-author">Marlene Visconte</div>
-                                    <div class="testimonial-position">General Manager - Scouter</div>
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
+                                    <p class="testimonial-text">“Perfect vacations with perfect service in a perfect location ! 
+                                        Everybody is super friendly also to kids . Thank you!"</p>
+                                    <div class="testimonial-author">Phillipp Ain</div>
+                                </div> 
         
-                                <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <img class="testimonial-image" src="images/testimonial-2.jpg" alt="alternative">
-                                    <p class="testimonial-text">“Expense bed any sister depend changer off piqued one. Contented continued any happiness instantly objection yet her allowance. Use correct day new brought tedious. By come this been in. Kept easy or sons my it how about some words here done”</p>
-                                    <div class="testimonial-author">John Spiker</div>
-                                    <div class="testimonial-position">Team Leader - Vanquish</div>
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
+                                    <p class="testimonial-text">“Very hospitable owners, incredibly beautiful location, right on the small port of Sveti Martin, come there every year ❤ ”</p>
+                                    <div class="testimonial-author">Claudia Nitsche</div>
+
+                                </div>
         
-                                <!-- Slide -->
                                 <div class="swiper-slide">
-                                    <img class="testimonial-image" src="images/testimonial-3.jpg" alt="alternative">
-                                    <p class="testimonial-text">“Expense bed any sister depend changer off piqued one. Contented continued any happiness instantly objection yet her allowance. Use correct day new brought tedious. By come this been in. Kept easy or sons my it how about some words here done”</p>
-                                    <div class="testimonial-author">Stella Virtuoso</div>
-                                    <div class="testimonial-position">Design Chief - Bikegirl</div>
-                                </div> <!-- end of swiper-slide -->
-                                <!-- end of slide -->
+                                    <p class="testimonial-text">“very familiar atmosphere clean rooms and from the window I can see the sea for 12 years pure relaxation.”</p>
+                                    <div class="testimonial-author">Gertrude Mehler</div>
+
+                                </div> 
         
-                            </div> <!-- end of swiper-wrapper -->
+                            </div> 
         
-                            <!-- Add Arrows -->
                             <div class="swiper-button-next"></div>
                             <div class="swiper-button-prev"></div>
-                            <!-- end of add arrows -->
-        
-                        </div> <!-- end of swiper-container -->
-                    </div> <!-- end of slider-container -->
-                    <!-- end of card slider -->
+                         
+                        </div> 
+                    </div> 
 
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of slider-1 -->
-    <!-- end of testimonials -->
-
-
-    <!-- Contact -->
+                </div>
+            </div> 
+        </div> 
+    </div>
     <div id="contact" class="form-1">
-        <img class="decoration-star" src="images/decoration-star.svg" alt="alternative">
-        <img class="decoration-star-2" src="images/decoration-star.svg" alt="alternative">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
                     <div class="image-container">
-                        <img class="img-fluid" src="images/contact.png" alt="alternative">
-                    </div> <!-- end of image-container -->
-                </div> <!-- end of col -->
+                        <div class="airbnb-embed-frame" data-id="37508622" data-view="home" style="width:450px;height:300px;margin:auto">
+                            <a href="https://www.airbnb.com/rooms/37508622?guests=1&amp;adults=1&amp;s=66&amp;unique_share_id=423b7d10-517b-4244-a69e-74ad62d87468&amp;source=embed_widget">View On Airbnb</a>
+                            <a href="https://www.airbnb.com/rooms/37508622?guests=1&amp;adults=1&amp;s=66&amp;unique_share_id=423b7d10-517b-4244-a69e-74ad62d87468&amp;source=embed_widget" rel="nofollow">Villa Galija Mali Lošinj</a>
+                            <script async="" src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script></div>
+                    </div> 
+                </div> 
                 <div class="col-lg-6">
                     <div class="text-container">
-                        <h2>Contact us for a quote using the following form</h2>
+                        <h2>Feel free to call, send a fax or e-mail. We will respond as soon as possible.</h2>
 
-                        <!-- Contact Form -->
                         <form>
                             <div class="form-group">
                                 <input type="text" class="form-control-input" placeholder="Name" required>
@@ -497,95 +300,71 @@
                                 <button type="submit" class="form-control-submit-button">Submit</button>
                             </div>
                         </form>
-                        <!-- end of contact form -->
-                    </div> <!-- end of text-container -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of form-1 -->
-    <!-- end of contact -->
+                      
+                    </div> 
+                </div>
+            </div> 
+        </div> 
+    </div> 
 
 
-    <!-- Footer -->
     <div class="footer bg-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer-col first">
-                        <h6>About Website</h6>
-                        <p class="p-small">He oppose at thrown desire of no. Announcing impression unaffected day his are unreserved indulgence. Him hard find read are you</p>
-                    </div> <!-- end of footer-col -->
-                    <div class="footer-col second">
-                        <h6>Links</h6>
+                        <h6>Contact</h6>
                         <ul class="list-unstyled li-space-lg p-small">
-                            <li>Important: <a href="terms.html">Terms & Conditions</a>, <a href="privacy.html">Privacy Policy</a></li>
-                            <li>Useful: <a href="#">Colorpicker</a>, <a href="#">Icon Library</a>, <a href="#">Illustrations</a></li>
-                            <li>Menu: <a href="#header">Home</a>, <a href="#details">Details</a>, <a href="#services">Services</a>, <a href="#contact">Contact</a></li>
+                            <li>Sveti Martin 61</li>
+                            <li>Mali Lošinj, 51550</li>
+                            <li>Croatia</li>
+                            <li><a href="mailto:villagalija@gmail.com">villagalija@gmail.com</a></li>
+                            <li>Tel: +385-51-231-187</li>
+                            <li>Fax: +385-51-233-799</li>
                         </ul>
-                    </div> <!-- end of footer-col -->
+
+                    </div>
                     <div class="footer-col third">
                         <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://www.facebook.com/vilagalija">
                                 <i class="fas fa-circle fa-stack-2x"></i>
                                 <i class="fab fa-facebook-f fa-stack-1x"></i>
                             </a>
                         </span>
+
                         <span class="fa-stack">
-                            <a href="#your-link">
+                            <a href="https://www.facebook.com/vilagalija">
                                 <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-twitter fa-stack-1x"></i>
+                                <i class="fab fa-airbnb fa-stack-1x"></i>
                             </a>
                         </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-pinterest-p fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <span class="fa-stack">
-                            <a href="#your-link">
-                                <i class="fas fa-circle fa-stack-2x"></i>
-                                <i class="fab fa-instagram fa-stack-1x"></i>
-                            </a>
-                        </span>
-                        <p class="p-small">We would love to hear from you <a href="mailto:contact@site.com"><strong>contact@site.com</strong></a></p>
-                    </div> <!-- end of footer-col -->
-                </div> <!-- end of col -->
-            </div> <!-- end of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of footer -->  
-    <!-- end of footer -->
+                        <p class="p-small">We would love to hear from you <a href="mailto:villagalija@gmail.com"><strong>villagalija@gmail.com</strong></a></p>
+                    </div> 
+                </div> 
+            </div> 
+        </div> 
+    </div> 
 
 
-    <!-- Copyright -->
+   
     <div class="copyright bg-gray">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="p-small">Copyright © <a href="#your-link">Your name</a></p>
-                </div> <!-- end of col -->
-            </div> <!-- enf of row -->
-
-            <div class="row">
-                <div class="col-lg-12">
-                    <p class="p-small">Distributed By <a href="https://themewagon.com/">Themewagon</a></p>
-                </div> <!-- end of col -->
-            </div> <!-- enf of row -->
-        </div> <!-- end of container -->
-    </div> <!-- end of copyright --> 
-    <!-- end of copyright -->
+                    <p class="p-small">Copyright © <a href="https://github.com/senseji/">Robert Lovrić</a></p>
+                </div> 
+            </div> 
+        </div> 
+    </div> 
     
 
-    <!-- Back To Top Button -->
+  
     <button onclick="topFunction()" id="myBtn">
         <img src="images/up-arrow.png" alt="alternative">
     </button>
-    <!-- end of back to top button -->
-    	
-    <!-- Scripts -->
-    <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
-    <script src="js/swiper.min.js"></script> <!-- Swiper for image and text sliders -->
-    <script src="js/purecounter.min.js"></script> <!-- Purecounter counter for statistics numbers -->
-    <script src="js/scripts.js"></script> <!-- Custom scripts -->
+  
+    <script src="js/bootstrap.min.js"></script> 
+    <script src="js/swiper.min.js"></script> 
+    <script src="js/scripts.js"></script> 
 </body>
 </html>
