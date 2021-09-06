@@ -60,8 +60,8 @@
                 <div class="col-lg-7 col-xl-5">
                     <div class="text-container">
                         <h1 class="h1-large">Villa Galija</h1>
-                        <p class="p-large"></p>Do you want to feel like at home? Do you wish the seagulls to wake you up? Are you in a mood for relaxed vacation? You're on right address!</p>
-                        <p class="p-large"></p>Enjoy a view of dolphins dancing in a school while a griffon vulture guards the sky, wall geckos happily crawl across house walls, and the best shrimp in the world plays the beat with its claws somewhere deep down in the sea…</p>
+                        <p class="p-large">Do you want to feel like at home? Do you wish the seagulls to wake you up? Are you in a mood for relaxed vacation? You're on right address!</p>
+                        <p class="p-large">Enjoy a view of dolphins dancing in a school while a griffon vulture guards the sky, wall geckos happily crawl across house walls, and the best shrimp in the world plays the beat with its claws somewhere deep down in the sea…</p>
                         <a class="btn-solid-lg" href="#introduction">More details</a>
                         <a class="btn-outline-lg" href="#contact">Contact us</a>
                     </div>
